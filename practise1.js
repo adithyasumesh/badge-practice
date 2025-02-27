@@ -6,7 +6,3 @@ const person = {
     place: 'Calicut'
 }
 
-const obj = {
-    name: 'Aswwin',
-    place: 'Calicut'
-}
